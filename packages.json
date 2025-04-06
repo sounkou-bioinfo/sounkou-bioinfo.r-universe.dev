@@ -1,7 +1,6 @@
 [
     {
         "package": "goserveR",
-        "url": "https://github.com/sounkou-bioinfo/goServeR",
-        "branch": "rook"
+        "url": "https://github.com/sounkou-bioinfo/goServeR"
     }
 ]
