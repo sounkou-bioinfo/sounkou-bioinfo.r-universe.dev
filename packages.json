@@ -2,5 +2,9 @@
     {
         "package": "goserveR",
         "url": "https://github.com/sounkou-bioinfo/goServeR"
+    },
+     {
+        "package": "bcflib",
+        "url": "https://github.com/sounkou-bioinfo/bcflib"
     }
 ]
