@@ -4,7 +4,7 @@
         "url": "https://github.com/sounkou-bioinfo/goServeR"
     },
      {
-        "package": "bcflib",
-        "url": "https://github.com/sounkou-bioinfo/bcflib"
+        "package": "RBCFLib",
+        "url": "https://github.com/sounkou-bioinfo/RBCFLib"
     }
 ]
