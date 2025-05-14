@@ -6,5 +6,9 @@
      {
         "package": "RBCFLib",
         "url": "https://github.com/sounkou-bioinfo/RBCFLib"
+    },
+    {
+        "package": "bcflib",
+        "url": "https://github.com/sounkou-bioinfo/bcflib"
     }
 ]
