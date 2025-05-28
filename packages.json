@@ -10,5 +10,10 @@
     {
         "package": "bcflib",
         "url": "https://github.com/sounkou-bioinfo/bcflib"
+    },
+    ,
+    {
+        "package": "rbcf",
+        "url": "https://github.com/sounkou-bioinfo/rbcf"
     }
 ]
