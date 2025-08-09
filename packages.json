@@ -1,6 +1,7 @@
 [
     { "package": "bcflib", "url": "https://github.com/sounkou-bioinfo/bcflib"},
     { "package": "goserveR", "url": "https://github.com/sounkou-bioinfo/goServeR"},
+    { "package": "Rpixpack", "url": "https://github.com/sounkou-bioinfo/pixpack"},
     { "package": "rbcf", "url": "https://github.com/sounkou-bioinfo/rbcf"},
     { "package": "RBCFLib", "url": "https://github.com/sounkou-bioinfo/RBCFLib"},
     { "package": "Rlibhv", "url": "https://github.com/sounkou-bioinfo/Rlibhv"}
