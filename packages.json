@@ -4,5 +4,6 @@
     { "package": "Rpixpack", "url": "https://github.com/sounkou-bioinfo/pixpack"},
     { "package": "rbcf", "url": "https://github.com/sounkou-bioinfo/rbcf"},
     { "package": "RBCFLib", "url": "https://github.com/sounkou-bioinfo/RBCFLib"},
+    { "package": "Rclib", "url": "https://github.com/sounkou-bioinfo/Rclib"},
     { "package": "Rlibhv", "url": "https://github.com/sounkou-bioinfo/Rlibhv"}
 ]
