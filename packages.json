@@ -5,5 +5,5 @@
     { "package": "RBCFLib", "url": "https://github.com/sounkou-bioinfo/RBCFLib"},
     { "package": "Rclib", "url": "https://github.com/sounkou-bioinfo/Rclib"},
     { "package": "Rlibhv", "url": "https://github.com/sounkou-bioinfo/Rlibhv"},
-    { "package": "RTileDBvcf", "url": "https://github.com/sounkou-bioinfo/RTileDBvcf"}
+    { "package": "RTileDBvcf", "url": "https://github.com/sounkou-bioinfo/Rlibtiledbvcf"}
 ]
