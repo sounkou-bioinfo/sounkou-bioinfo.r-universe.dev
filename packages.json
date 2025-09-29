@@ -1,4 +1,5 @@
 [
+    { "package": "duckdbWasmHtmlJsSimple", "url": "https://github.com/sounkou-bioinfo/duckdb-wasm-html-js-simple"},
     { "package": "goserveR", "url": "https://github.com/sounkou-bioinfo/goServeR"},
     { "package": "Rpixpack", "url": "https://github.com/sounkou-bioinfo/pixpack"},
     { "package": "rbcf", "url": "https://github.com/sounkou-bioinfo/rbcf"},
