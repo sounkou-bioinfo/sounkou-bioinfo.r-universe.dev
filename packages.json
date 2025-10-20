@@ -2,6 +2,7 @@
     { "package": "duckdbWasmHtmlJsSimple", "url": "https://github.com/sounkou-bioinfo/duckdb-wasm-html-js-simple"},
     { "package": "GenomeScaleEmbeddings", "url": "https://github.com/sounkou-bioinfo/GenomeScaleEmbeddings"},
     { "package": "goserveR", "url": "https://github.com/sounkou-bioinfo/goServeR"},
+    { "package": "mangoro", "url": "https://github.com/sounkou-bioinfo/mangoro"},
     { "package": "Rpixpack", "url": "https://github.com/sounkou-bioinfo/pixpack"},
     { "package": "rbcf", "url": "https://github.com/sounkou-bioinfo/rbcf"},
     { "package": "RBCFLib", "url": "https://github.com/sounkou-bioinfo/RBCFLib"},
