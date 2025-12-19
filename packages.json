@@ -11,6 +11,7 @@
     { "package": "Rclib", "url": "https://github.com/sounkou-bioinfo/Rclib"},
     { "package": "Rlibtiledbvcf", "url": "https://github.com/sounkou-bioinfo/Rlibtiledbvcf"},
     { "package": "RSimpleFFI", "url": "https://github.com/sounkou-bioinfo/RSimpleFFI"},
+     { "package": "Rtinycc", "url": "https://github.com/sounkou-bioinfo/Rtinycc"},
     { "package": "treesitter.c", "url": "https://github.com/sounkou-bioinfo/treesitter.c"},
     { "package": "wasmer", "url": "https://github.com/sounkou-bioinfo/wasmer"}
 ]
