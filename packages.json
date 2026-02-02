@@ -1,4 +1,5 @@
 [
+    { "package": "CPython", "url": "https://github.com/sounkou-bioinfo/CPython"},
     { "package": "duckdbWasmHtmlJsSimple", "url": "https://github.com/sounkou-bioinfo/duckdb-wasm-html-js-simple"},
     { "package": "GenomeScaleEmbeddings", "url": "https://github.com/sounkou-bioinfo/GenomeScaleEmbeddings"},
     { "package": "goserveR", "url": "https://github.com/sounkou-bioinfo/goServeR"},
