@@ -8,6 +8,7 @@
     { "package": "Rpixpack", "url": "https://github.com/sounkou-bioinfo/pixpack"},
     { "package": "RSimpleFFI", "url": "https://github.com/sounkou-bioinfo/RSimpleFFI"},
     { "package": "Rtinycc", "url": "https://github.com/sounkou-bioinfo/Rtinycc"},
+    { "package": "tccquickr", "url": "https://github.com/sounkou-bioinfo/tccquickr"},
     { "package": "treesitter.c", "url": "https://github.com/sounkou-bioinfo/treesitter.c"},
     { "package": "wasmer", "url": "https://github.com/sounkou-bioinfo/wasmer"}
 ]
