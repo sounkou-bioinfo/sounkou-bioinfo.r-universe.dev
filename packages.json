@@ -4,6 +4,7 @@
     { "package": "goserveR", "url": "https://github.com/sounkou-bioinfo/goServeR"},
     { "package": "hellomojo", "url": "https://github.com/sounkou-bioinfo/hellomojo"},
     { "package": "mangoro", "url": "https://github.com/sounkou-bioinfo/mangoro"},
+    { "package": "Rducks", "url": "https://github.com/sounkou-bioinfo/Rducks"},
     { "package": "Rpixpack", "url": "https://github.com/sounkou-bioinfo/pixpack"},
     { "package": "RSimpleFFI", "url": "https://github.com/sounkou-bioinfo/RSimpleFFI"},
     { "package": "Rtinycc", "url": "https://github.com/sounkou-bioinfo/Rtinycc"},
