@@ -7,6 +7,7 @@
     { "package": "Rducks", "url": "https://github.com/sounkou-bioinfo/Rducks"},
     { "package": "Rfmalloc", "url": "https://github.com/sounkou-bioinfo/Rfmalloc"},
     { "package": "Rpixpack", "url": "https://github.com/sounkou-bioinfo/pixpack"},
+    { "package": "Rsassy", "url": "https://github.com/sounkou-bioinfo/sassy", "subdir": "r/Rsassy"},
     { "package": "RSimpleFFI", "url": "https://github.com/sounkou-bioinfo/RSimpleFFI"},
     { "package": "Rtinycc", "url": "https://github.com/sounkou-bioinfo/Rtinycc"},
     { "package": "s7contract", "url": "https://github.com/sounkou-bioinfo/s7contract"},
