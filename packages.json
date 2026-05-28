@@ -9,6 +9,7 @@
     { "package": "Rpixpack", "url": "https://github.com/sounkou-bioinfo/pixpack"},
     { "package": "Rsassy", "url": "https://github.com/sounkou-bioinfo/sassy", "subdir": "r/Rsassy"},
     { "package": "RSimpleFFI", "url": "https://github.com/sounkou-bioinfo/RSimpleFFI"},
+    { "package": "RsimdDispatch", "url": "https://github.com/sounkou-bioinfo/RsimdDispatch"},
     { "package": "Rtinycc", "url": "https://github.com/sounkou-bioinfo/Rtinycc"},
     { "package": "s7contract", "url": "https://github.com/sounkou-bioinfo/s7contract"},
     { "package": "tccquickr", "url": "https://github.com/sounkou-bioinfo/tccquickr"},
