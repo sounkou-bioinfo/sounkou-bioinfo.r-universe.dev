@@ -1,6 +1,7 @@
 [
     { "package": "duckdbWasmHtmlJsSimple", "url": "https://github.com/sounkou-bioinfo/duckdb-wasm-html-js-simple"},
     { "package": "GenomeScaleEmbeddings", "url": "https://github.com/sounkou-bioinfo/GenomeScaleEmbeddings"},
+    { "package": "hellorust.multiversion", "url": "https://github.com/sounkou-bioinfo/hellorust-multiversion"},
     { "package": "goserveR", "url": "https://github.com/sounkou-bioinfo/goServeR"},
     { "package": "hellomojo", "url": "https://github.com/sounkou-bioinfo/hellomojo"},
     { "package": "mangoro", "url": "https://github.com/sounkou-bioinfo/mangoro"},
