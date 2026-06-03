@@ -13,7 +13,6 @@
     { "package": "RSimpleFFI", "url": "https://github.com/sounkou-bioinfo/RSimpleFFI"},
     { "package": "RsimdDispatch", "url": "https://github.com/sounkou-bioinfo/RsimdDispatch"},
     { "package": "Rtinycc", "url": "https://github.com/sounkou-bioinfo/Rtinycc"},
-    { "package": "Rzarrs", "url": "https://github.com/sounkou-bioinfo/Rzarrs"},
     { "package": "s7contract", "url": "https://github.com/sounkou-bioinfo/s7contract"},
     { "package": "tccquickr", "url": "https://github.com/sounkou-bioinfo/tccquickr"},
     { "package": "treesitter.c", "url": "https://github.com/sounkou-bioinfo/treesitter.c"},
