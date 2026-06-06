@@ -1,20 +1,78 @@
 [
-    { "package": "duckdbWasmHtmlJsSimple", "url": "https://github.com/sounkou-bioinfo/duckdb-wasm-html-js-simple"},
-    { "package": "GenomeScaleEmbeddings", "url": "https://github.com/sounkou-bioinfo/GenomeScaleEmbeddings"},
-    { "package": "hellorust.multiversion", "url": "https://github.com/sounkou-bioinfo/hellorust-multiversion"},
-    { "package": "goserveR", "url": "https://github.com/sounkou-bioinfo/goServeR"},
-    { "package": "hellomojo", "url": "https://github.com/sounkou-bioinfo/hellomojo"},
-    { "package": "mangoro", "url": "https://github.com/sounkou-bioinfo/mangoro"},
-    { "package": "Rducks", "url": "https://github.com/sounkou-bioinfo/Rducks"},
-    { "package": "Rfmalloc", "url": "https://github.com/sounkou-bioinfo/Rfmalloc"},
-    { "package": "Ropendal", "url": "https://github.com/sounkou-bioinfo/Ropendal"},
-    { "package": "Rpixpack", "url": "https://github.com/sounkou-bioinfo/pixpack"},
-    { "package": "Rsassy", "url": "https://github.com/sounkou-bioinfo/Rsassy"},
-    { "package": "RSimpleFFI", "url": "https://github.com/sounkou-bioinfo/RSimpleFFI"},
-    { "package": "RsimdDispatch", "url": "https://github.com/sounkou-bioinfo/RsimdDispatch"},
-    { "package": "Rtinycc", "url": "https://github.com/sounkou-bioinfo/Rtinycc"},
-    { "package": "s7contract", "url": "https://github.com/sounkou-bioinfo/s7contract"},
-    { "package": "tccquickr", "url": "https://github.com/sounkou-bioinfo/tccquickr"},
-    { "package": "treesitter.c", "url": "https://github.com/sounkou-bioinfo/treesitter.c"},
-    { "package": "wasmer", "url": "https://github.com/sounkou-bioinfo/wasmer"}
+    {
+        "package": "duckdbWasmHtmlJsSimple",
+        "url": "https://github.com/sounkou-bioinfo/duckdb-wasm-html-js-simple"
+    },
+    {
+        "package": "GenomeScaleEmbeddings",
+        "url": "https://github.com/sounkou-bioinfo/GenomeScaleEmbeddings"
+    },
+    {
+        "package": "goserveR",
+        "url": "https://github.com/sounkou-bioinfo/goServeR"
+    },
+    {
+        "package": "hellomojo",
+        "url": "https://github.com/sounkou-bioinfo/hellomojo"
+    },
+    {
+        "package": "hellorust.multiversion",
+        "url": "https://github.com/sounkou-bioinfo/hellorust-multiversion"
+    },
+    {
+        "package": "mangoro",
+        "url": "https://github.com/sounkou-bioinfo/mangoro"
+    },
+    {
+        "package": "Rbebelm",
+        "url": "https://github.com/sounkou-bioinfo/Rbebelm"
+    },
+    {
+        "package": "Rducks",
+        "url": "https://github.com/sounkou-bioinfo/Rducks"
+    },
+    {
+        "package": "Rfmalloc",
+        "url": "https://github.com/sounkou-bioinfo/Rfmalloc"
+    },
+    {
+        "package": "Ropendal",
+        "url": "https://github.com/sounkou-bioinfo/Ropendal"
+    },
+    {
+        "package": "Rpixpack",
+        "url": "https://github.com/sounkou-bioinfo/pixpack"
+    },
+    {
+        "package": "Rsassy",
+        "url": "https://github.com/sounkou-bioinfo/Rsassy"
+    },
+    {
+        "package": "RsimdDispatch",
+        "url": "https://github.com/sounkou-bioinfo/RsimdDispatch"
+    },
+    {
+        "package": "RSimpleFFI",
+        "url": "https://github.com/sounkou-bioinfo/RSimpleFFI"
+    },
+    {
+        "package": "Rtinycc",
+        "url": "https://github.com/sounkou-bioinfo/Rtinycc"
+    },
+    {
+        "package": "s7contract",
+        "url": "https://github.com/sounkou-bioinfo/s7contract"
+    },
+    {
+        "package": "tccquickr",
+        "url": "https://github.com/sounkou-bioinfo/tccquickr"
+    },
+    {
+        "package": "treesitter.c",
+        "url": "https://github.com/sounkou-bioinfo/treesitter.c"
+    },
+    {
+        "package": "wasmer",
+        "url": "https://github.com/sounkou-bioinfo/wasmer"
+    }
 ]
