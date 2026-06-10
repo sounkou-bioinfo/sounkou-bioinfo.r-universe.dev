@@ -20,6 +20,10 @@
         "url": "https://github.com/sounkou-bioinfo/hellorust-multiversion"
     },
     {
+        "package": "leanknit",
+        "url": "https://github.com/sounkou-bioinfo/leanknit"
+    },
+    {
         "package": "mangoro",
         "url": "https://github.com/sounkou-bioinfo/mangoro"
     },
