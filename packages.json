@@ -40,6 +40,10 @@
         "url": "https://github.com/sounkou-bioinfo/Rfmalloc"
     },
     {
+        "package": "Rminibwa",
+        "url": "https://github.com/sounkou-bioinfo/Rminibwa"
+    },
+    {
         "package": "Ropendal",
         "url": "https://github.com/sounkou-bioinfo/Ropendal"
     },
