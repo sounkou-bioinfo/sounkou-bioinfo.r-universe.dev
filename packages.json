@@ -37,15 +37,23 @@
     },
     {
         "package": "Rfmalloc",
-        "url": "https://github.com/sounkou-bioinfo/Rfmalloc"
+        "url": "https://github.com/sounkou-bioinfo/Rfmalloc",
+        "subdir": "packages/Rfmalloc"
     },
     {
         "package": "Rggml",
-        "url": "https://github.com/sounkou-bioinfo/Rggml"
+        "url": "https://github.com/sounkou-bioinfo/Rfmalloc",
+        "subdir": "packages/Rggml"
     },
     {
         "package": "Rgguf",
-        "url": "https://github.com/sounkou-bioinfo/Rgguf"
+        "url": "https://github.com/sounkou-bioinfo/Rfmalloc",
+        "subdir": "packages/Rgguf"
+    },
+    {
+        "package": "Rllm",
+        "url": "https://github.com/sounkou-bioinfo/Rfmalloc",
+        "subdir": "packages/Rllm"
     },
     {
         "package": "Rminibwa",
