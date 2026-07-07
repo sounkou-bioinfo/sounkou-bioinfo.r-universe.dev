@@ -40,6 +40,10 @@
         "url": "https://github.com/sounkou-bioinfo/Rfmalloc"
     },
     {
+        "package": "Rggml",
+        "url": "https://github.com/sounkou-bioinfo/Rggml"
+    },
+    {
         "package": "Rgguf",
         "url": "https://github.com/sounkou-bioinfo/Rgguf"
     },
