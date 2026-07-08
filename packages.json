@@ -1,5 +1,9 @@
 [
     {
+        "package": "anvltcc",
+        "url": "https://github.com/sounkou-bioinfo/anvltcc"
+    },
+    {
         "package": "duckdbWasmHtmlJsSimple",
         "url": "https://github.com/sounkou-bioinfo/duckdb-wasm-html-js-simple"
     },
