@@ -60,6 +60,11 @@
         "subdir": "packages/Rllm"
     },
     {
+        "package": "Rpgen",
+        "url": "https://github.com/sounkou-bioinfo/Rfmalloc",
+        "subdir": "packages/Rpgen"
+    },
+    {
         "package": "Rminibwa",
         "url": "https://github.com/sounkou-bioinfo/Rminibwa"
     },
