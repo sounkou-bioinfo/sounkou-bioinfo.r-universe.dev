@@ -8,10 +8,6 @@
         "url": "https://github.com/sounkou-bioinfo/duckdb-wasm-html-js-simple"
     },
     {
-        "package": "ducksemantics",
-        "url": "https://github.com/sounkou-bioinfo/ducksemantics"
-    },
-    {
         "package": "GenomeScaleEmbeddings",
         "url": "https://github.com/sounkou-bioinfo/GenomeScaleEmbeddings"
     },
@@ -34,115 +30,6 @@
     {
         "package": "mangoro",
         "url": "https://github.com/sounkou-bioinfo/mangoro"
-    },
-    {
-        "package": "nanonext",
-        "url": "https://github.com/sounkou-bioinfo/nanonext"
-    },
-    {
-        "package": "Rbebelm",
-        "url": "https://github.com/sounkou-bioinfo/Rbebelm"
-    },
-    {
-        "package": "RClinVarbitration",
-        "url": "https://github.com/sounkou-bioinfo/RClinVarbitration"
-    },
-    {
-        "package": "Rducks",
-        "url": "https://github.com/sounkou-bioinfo/Rducks"
-    },
-    {
-        "package": "Rfmalloc",
-        "url": "https://github.com/sounkou-bioinfo/Rfmalloc",
-        "subdir": "packages/Rfmalloc"
-    },
-    {
-        "package": "Rggml",
-        "url": "https://github.com/sounkou-bioinfo/Rfmalloc",
-        "subdir": "packages/Rggml"
-    },
-    {
-        "package": "Rgguf",
-        "url": "https://github.com/sounkou-bioinfo/Rfmalloc",
-        "subdir": "packages/Rgguf"
-    },
-    {
-        "package": "rho.agent",
-        "url": "https://github.com/sounkou-bioinfo/Rho",
-        "subdir": "packages/rho.agent"
-    },
-    {
-        "package": "rho.ai",
-        "url": "https://github.com/sounkou-bioinfo/Rho",
-        "subdir": "packages/rho.ai"
-    },
-    {
-        "package": "rho.async",
-        "url": "https://github.com/sounkou-bioinfo/Rho",
-        "subdir": "packages/rho.async"
-    },
-    {
-        "package": "rho.bio",
-        "url": "https://github.com/sounkou-bioinfo/Rho",
-        "subdir": "packages/rho.bio"
-    },
-    {
-        "package": "rho.bio.agent",
-        "url": "https://github.com/sounkou-bioinfo/Rho",
-        "subdir": "packages/rho.bio.agent"
-    },
-    {
-        "package": "rho.coding",
-        "url": "https://github.com/sounkou-bioinfo/Rho",
-        "subdir": "packages/rho.coding"
-    },
-    {
-        "package": "rho.compute",
-        "url": "https://github.com/sounkou-bioinfo/Rho",
-        "subdir": "packages/rho.compute"
-    },
-    {
-        "package": "rho.duckdb",
-        "url": "https://github.com/sounkou-bioinfo/Rho",
-        "subdir": "packages/rho.duckdb"
-    },
-    {
-        "package": "rho.ext",
-        "url": "https://github.com/sounkou-bioinfo/Rho",
-        "subdir": "packages/rho.ext"
-    },
-    {
-        "package": "rho.graphics",
-        "url": "https://github.com/sounkou-bioinfo/Rho",
-        "subdir": "packages/rho.graphics"
-    },
-    {
-        "package": "rho.http",
-        "url": "https://github.com/sounkou-bioinfo/Rho",
-        "subdir": "packages/rho.http"
-    },
-    {
-        "package": "rho.testkit",
-        "url": "https://github.com/sounkou-bioinfo/Rho",
-        "subdir": "packages/rho.testkit"
-    },
-    {
-        "package": "Rllm",
-        "url": "https://github.com/sounkou-bioinfo/Rfmalloc",
-        "subdir": "packages/Rllm"
-    },
-    {
-        "package": "Rpgen",
-        "url": "https://github.com/sounkou-bioinfo/Rfmalloc",
-        "subdir": "packages/Rpgen"
-    },
-    {
-        "package": "Rminibwa",
-        "url": "https://github.com/sounkou-bioinfo/Rminibwa"
-    },
-    {
-        "package": "Ropendal",
-        "url": "https://github.com/sounkou-bioinfo/Ropendal"
     },
     {
         "package": "Rpixpack",
