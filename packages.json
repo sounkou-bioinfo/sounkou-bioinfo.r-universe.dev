@@ -40,6 +40,10 @@
         "url": "https://github.com/sounkou-bioinfo/Rbebelm"
     },
     {
+        "package": "RClinVarbitration",
+        "url": "https://github.com/sounkou-bioinfo/RClinVarbitration"
+    },
+    {
         "package": "Rducks",
         "url": "https://github.com/sounkou-bioinfo/Rducks"
     },
