@@ -8,6 +8,10 @@
         "url": "https://github.com/sounkou-bioinfo/duckdb-wasm-html-js-simple"
     },
     {
+        "package": "ducksemantics",
+        "url": "https://github.com/sounkou-bioinfo/ducksemantics"
+    },
+    {
         "package": "GenomeScaleEmbeddings",
         "url": "https://github.com/sounkou-bioinfo/GenomeScaleEmbeddings"
     },
